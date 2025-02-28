@@ -63,8 +63,14 @@ Open your web browser and navigate to http://localhost:3000 (or the appropriate 
 
 # Enter your WiFi credentials (SSID and password) in the provided fields.
 
+---
+
 # Click the "Generate QR Code" button to create your QR code.
 
+---
+
 # Customize the card design if applicable.
+
+---
 
 # Print the card using the print option provided in the application.
