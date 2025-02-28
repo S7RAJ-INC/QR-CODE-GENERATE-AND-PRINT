@@ -4,7 +4,7 @@ Welcome to the QR WiFi Code Card Generator and Printer repository! This project 
 
 ---
 
-#Features
+# Features
 Generate QR codes for WiFi credentials (SSID and password)
 Customizable card design
 Print-ready output
@@ -12,10 +12,10 @@ User-friendly interface
 
 ---
 
-#Getting Started
+# Getting Started
 To get a local copy up and running, follow these simple steps:
 
-#Prerequisites
+# Prerequisites
 Make sure you have the following installed on your machine:
 
 Node.js (if applicable)
@@ -61,10 +61,10 @@ Copy code
 python app.py
 Open your web browser and navigate to http://localhost:3000 (or the appropriate port if different).
 
-#Enter your WiFi credentials (SSID and password) in the provided fields.
+# Enter your WiFi credentials (SSID and password) in the provided fields.
 
-#Click the "Generate QR Code" button to create your QR code.
+# Click the "Generate QR Code" button to create your QR code.
 
-#Customize the card design if applicable.
+# Customize the card design if applicable.
 
-#Print the card using the print option provided in the application.
+# Print the card using the print option provided in the application.
